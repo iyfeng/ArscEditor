@@ -1,1 +1,2 @@
 # ArscEditor
+可直接修改resources.arsc的二进制文件，可以配合脚本工具批量修改app名称等一些androidmanifest.xml中不存在的变量
